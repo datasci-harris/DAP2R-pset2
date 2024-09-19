@@ -2,7 +2,7 @@
 ## Fall Quarter 2024
 
 ## Homework 2
-## Due: October 26 before midnight on GitHub Classroom
+## Due: October 26 before midnight on Gradescope
 
 __Question 1 (10%):__ Complete the final project quiz on Canvas.  Note that your ideas can evolve as we approach the project presentations.
 
